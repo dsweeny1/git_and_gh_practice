@@ -1,0 +1,3 @@
+archery
+hiking
+art
